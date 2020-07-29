@@ -4,7 +4,7 @@ I'm David Arroyo. Thanks for visiting my GitHub profile!
 
 I'm not a software engineer, but I'm extremely passionate about tech. I work in a factory where I see a lot of little things that can get automated. Love surfing, running and trading.
 
-Hope you enjoy my repos as much as I enjoyed coding them!😄
+Hope you enjoy my repos as much as I enjoyed coding them! 😄
 
 <!--
 **darroyolpz/darroyolpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
