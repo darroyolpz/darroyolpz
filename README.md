@@ -1,3 +1,5 @@
+![GitHub header - 1](https://raw.githubusercontent.com/darroyolpz/Miscellaneous/master/IMG_1500.jpg)
+
 ### Hi there 👋
 
 I'm David Arroyo. Thanks for visiting my GitHub profile!
