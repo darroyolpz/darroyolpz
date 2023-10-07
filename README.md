@@ -1,5 +1,4 @@
-![GitHub header - 1](https://raw.githubusercontent.com/darroyolpz/Miscellaneous/master/IMG_1500.jpg)
-
+![GitHub header - 1](https://raw.githubusercontent.com/darroyolpz/Miscellaneous/master/IMG_1500.jpg?token=GHSAT0AAAAAACGFZHDEYVKGPGAPKGB6VXZIZJAUK5A)
 ---
 
 ### Hi there 👋
