@@ -1,4 +1,4 @@
-![GitHub header - 1](https://github.com/darroyolpz/darroyolpz/blob/main/IMG_1500.jpg?raw=true)
+![GitHub header - 1](https://github.com/darroyolpz/darroyolpz/blob/master/IMG_1500.jpg?raw=true)
 ---
 
 ### Hi there 👋
