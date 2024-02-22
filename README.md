@@ -5,7 +5,7 @@
 
 I'm David Arroyo. Thanks for visiting my GitHub profile!
 
-I'm not a software engineer, but I'm extremely passionate about tech. I work in a factory where I see a lot of little things that can get automated. Love surfing, biking and trading.
+Love surfing, biking and trading.
 
 Hope you enjoy my repos as much as I enjoyed coding them! 😄
 
